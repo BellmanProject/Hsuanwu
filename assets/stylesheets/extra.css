@@ -1,0 +1,7 @@
+.md-content {
+    text-align: justify;
+}
+
+[data-md-color-scheme="hsuanwu"] {
+    --md-primary-fg-color:        #007E66;
+  }  
